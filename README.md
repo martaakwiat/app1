@@ -15,6 +15,4 @@ Funkcjonalności aplikacji w wersji v.2.0:
 - obsługa regionu EUR/USA 
 - obsługa powyżej 120 lat 
 
-Możliwe ulepszenia
-Dodanie wyboru prefernecji smakowych, następnie wyświetlenie dopasowanych pod użytkownika produktów.
-Dodatkowe promocje dla poszczególnych grup wiekowych.
+
