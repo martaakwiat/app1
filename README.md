@@ -11,9 +11,9 @@ Funkcjonalności aplikacji w wersji v.1.0:
 - obsługa wymagań specjalnych dla osób +40
 
 Funkcjonalności aplikacji w wersji v.2.0:
- -obsługa kobiet 30+ 
- -obsługa regionu EUR/USA 
- -obsługa powyżej 120 lat 
+- obsługa kobiet 30+ 
+- obsługa regionu EUR/USA 
+- obsługa powyżej 120 lat 
 
 Możliwe ulepszenia
 Dodanie wyboru prefernecji smakowych, następnie wyświetlenie dopasowanych pod użytkownika produktów.
